@@ -1,4 +1,7 @@
-# Git Commit Message Style Skill
+---
+name: git-commit-message-style
+description: Write clear, consistent git commit messages following a defined commit message style. Trigger this skill whenever the user requests a git commit message and provides a diff of the changes to be committed.
+---
 
 ## Purpose
 This skill defines a preferred style for writing git commit messages, focusing on clarity, conciseness, and active voice.
